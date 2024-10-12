@@ -1,7 +1,7 @@
 # ArduinoMenu
 Class-based structure to create menus for arduino LCD displays
 <br>
-Also works well woth LCDKeypad library (example in examples folder)
+Also works well with LCDKeypad library (example in examples folder)
 
 ## Install
 This is not yet a library, so just copy-paste at the top of your file.
